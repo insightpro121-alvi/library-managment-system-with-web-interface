@@ -1,0 +1,30 @@
+B001,Python Programming,John Smith,2020,5,3,2
+B002,Data Science Handbook,Emily Johnson,2019,3,3,0
+B003,Web Development Basics,Michael Brown,2021,4,4,0
+B004,Machine Learning Fundamentals,Sarah Davis,2018,2,2,0
+B005,Database Systems,Robert Wilson,2022,6,6,0
+B006,Artificial Intelligence,Lisa Miller,2020,3,3,0
+B007,Computer Networks,David Taylor,2019,4,4,0
+B008,Software Engineering,Jennifer Anderson,2021,5,5,0
+B009,Mobile App Development,Christopher Lee,2022,3,3,0
+B010,Cloud Computing,Amanda White,2020,4,4,0
+B011,Cyber Security,Daniel Harris,2019,2,2,0
+B012,Data Structures,Patricia Martin,2021,5,5,0
+B013,Algorithms,James Thompson,2018,3,3,0
+B014,Operating Systems,Maria Garcia,2020,4,4,0
+B015,Computer Graphics,Kevin Martinez,2022,2,2,0
+B016,Web Design Principles,Michelle Clark,2021,4,4,0
+B017,Java Programming,Richard Lewis,2019,5,5,0
+B018,C++ for Beginners,Steven Walker,2020,3,3,0
+B019,JavaScript Mastery,Emma Robinson,2022,4,4,0
+B020,React.js Development,Andrew King,2021,3,3,0
+B021,Node.js Backend,Jessica Scott,2020,4,4,0
+B022,Python for Data Analysis,Thomas Young,2019,3,3,0
+B023,Deep Learning,Rachel Adams,2021,2,2,0
+B024,Big Data Analytics,Charles Baker,2020,3,3,0
+B025,SQL Database Design,Helen Nelson,2022,5,5,0
+B026,Network Security,Matthew Carter,2019,4,4,0
+B027,Ethical Hacking,Samantha Mitchell,2021,2,2,0
+B028,UI/UX Design,Olivia Perez,2020,4,4,0
+B029,Agile Methodology,Anthony Roberts,2022,3,3,0
+B030,Project Management,Sophia Turner,2019,5,5,0
